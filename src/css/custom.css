@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+.map-container {
+    height: 100vh;
+}
+
+.toggle-component {
+    z-index: 1;
+    width: 400px;
+    right: 10px;
+    top: 10px;
+}
